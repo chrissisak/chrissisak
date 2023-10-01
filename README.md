@@ -19,9 +19,8 @@
 - 🌳 I'm familiar with:  
 <space><space>  <a href="https://isocpp.org/home/" target="_blank" rel="noreferrer"> <img src="https://isocpp.org/assets/images/cpp_logo.png" alt="c++" width="40" height="40"/> </a> <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.ros.org/imgs/logo-white.png" alt="ROS" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" height="40"/> </a> 
 
-<!--- 🌱 currently learning:  
-  <a href="https://www.zephyrproject.org/" target="_blank" rel="noreferrer"> <img src="https://www.zephyrproject.org/wp-content/uploads/sites/38/2021/11/zephyr_logo_r_color_negative_big.svg" alt="zephyr" height="40"/> </a>
-<a href="https://www.nordicsemi.com"><img src="https://www.nordicsemi.com/-/media/Images/Logos/Logo_Trans_RGB_Vertical-optimized.svg" height="40"/></a>-->
+- 🌱 currently learning:  
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"> </a> <a href="https://www.figma.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />  </a>
 
 
 
