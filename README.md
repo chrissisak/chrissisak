@@ -3,7 +3,7 @@
 
 🤖 I'm Christine Isaksen, a robotics student from NMBU (Norwegian University of Life Sciences)
 
-⚡️ This Git is mostly for fun, but you'll find different projects, both from my studies and from my curious experiments.
+⚡️ This Git is mostly for fun, but you'll find different projects, both from my studies and from my own curious experiments.
 
 
 
