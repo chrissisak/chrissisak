@@ -11,9 +11,7 @@
 
 ## Languages and tools 🛠️
 - Actively using:    
-<space><space><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-
-
+<space><space> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
 
 
 - 🌳 I'm familiar with:  
